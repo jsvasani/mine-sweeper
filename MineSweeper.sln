@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UH.MineSweeper", "UH.MineSweeper\UH.MineSweeper.csproj", "{FA159BAD-68C2-4632-9ABC-9D3B14B5F27D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UH.MineSweeperTests", "UH.MineSweeperTests\UH.MineSweeperTests.csproj", "{A179C607-CD76-42C6-9A03-C2853456EFE0}"
