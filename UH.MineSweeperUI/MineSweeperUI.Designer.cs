@@ -55,12 +55,12 @@ namespace UH
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(352, 391);
+            this.ClientSize = new System.Drawing.Size(350, 387);
             this.Controls.Add(this.buttonNewGame);
             this.Controls.Add(this.pnlGame);
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(360, 425);
-            this.MinimumSize = new System.Drawing.Size(360, 425);
+            this.MaximumSize = new System.Drawing.Size(366, 425);
+            this.MinimumSize = new System.Drawing.Size(366, 425);
             this.Name = "MineSweeperUI";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MineSweeper";
