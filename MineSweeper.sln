@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UH.MineSweeper", "UH.MineSweeper\UH.MineSweeper.csproj", "{FA159BAD-68C2-4632-9ABC-9D3B14B5F27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UH.MineSweeperTests", "UH.MineSweeperTests\UH.MineSweeperTests.csproj", "{A179C607-CD76-42C6-9A03-C2853456EFE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UH.MineSweeperUI", "UH.MineSweeperUI\UH.MineSweeperUI.csproj", "{BAE1A1F1-BBDC-46D3-B9C9-3F476A0058CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA159BAD-68C2-4632-9ABC-9D3B14B5F27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA159BAD-68C2-4632-9ABC-9D3B14B5F27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA159BAD-68C2-4632-9ABC-9D3B14B5F27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA159BAD-68C2-4632-9ABC-9D3B14B5F27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A179C607-CD76-42C6-9A03-C2853456EFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A179C607-CD76-42C6-9A03-C2853456EFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A179C607-CD76-42C6-9A03-C2853456EFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A179C607-CD76-42C6-9A03-C2853456EFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE1A1F1-BBDC-46D3-B9C9-3F476A0058CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE1A1F1-BBDC-46D3-B9C9-3F476A0058CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE1A1F1-BBDC-46D3-B9C9-3F476A0058CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE1A1F1-BBDC-46D3-B9C9-3F476A0058CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
